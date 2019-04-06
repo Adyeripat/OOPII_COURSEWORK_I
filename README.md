@@ -1,1 +1,2 @@
-# OOP2_COURSEWORK1
+# OOP2_COURSEWORK1 
+Design a grading system.
